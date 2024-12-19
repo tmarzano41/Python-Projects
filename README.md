@@ -1,1 +1,1 @@
-# Python-Projects
+In my attempt to self-learn Python, I decided to program the popular word game "Wordle." I intend to build on this, producing other simple game designs using Python to further my understanding of video game design and the niche's of programming.
